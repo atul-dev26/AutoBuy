@@ -1,0 +1,18 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+
+# Java/Maven
+backend/**/target/
+*.class
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime uploads/logs
+backend/**/uploads/
+*.log
